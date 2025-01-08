@@ -1,12 +1,11 @@
-# Mute-Shape-Keys
-A tiny Blender addon to mute/unmute and flip shape key mute status. I am sick and tired of needing to click that little checkmark on every single shape, aren't you?
+Zeros Shape Key Utils
+A tiny Blender addon to mute/unmute and flip shape key mute status as well as moving shape keys around faster. I am sick and tired of needing to click that little checkmark on every single shape, aren't you?
 
 ## Supported Versions
 Native version: 3.6 LTS - briefly tested and working in Blender 4.0.0
 
 ## How-to-install
-Download the muteshapekeys.py file. In blender, go to "Edit" -> "Preferences" -> "Addons" -> "Install Addon" and pick the .py file on your computer.
+Download the zip from the releases section. Add the entire zip to your blender addons, do not unpack or unzip.
 
 ## Usage
-The location of the two buttons is in the 3D Viewport -> Tools. 
-The buttons will only show up if a mesh with shape keys is selected.
+All buttons are located in the shape key context menu, specifically at the top of it.
