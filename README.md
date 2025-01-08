@@ -1,4 +1,4 @@
-Zeros Shape Key Utils
+# Zeros Shape Key Utils
 A tiny Blender addon to mute/unmute and flip shape key mute status as well as moving shape keys around faster. I am sick and tired of needing to click that little checkmark on every single shape, aren't you?
 
 <img width="40%" alt="Shape Key Context Menu" src="https://i.imgur.com/QXCWjbk.png" />
